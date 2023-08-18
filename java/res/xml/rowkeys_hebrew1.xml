@@ -47,9 +47,11 @@
                 latin:moreKeys="_" />
         </default>
     </switch>
-    <!-- U+05E7: "ק" HEBREW LETTER QOF -->
+    <!-- U+05E7: "ק" HEBREW LETTER QOF
+         U+05E7: " ָ" HEBREW POINT QAMATS -->
     <Key
         latin:keySpec="&#x05E7;"
+        latin:moreKeys="&‌#x05B8;"
         latin:keyHintLabel="3"
         latin:additionalMoreKeys="3" />
     <!-- U+05E8: "ר" HEBREW LETTER RESH -->
@@ -82,9 +84,11 @@
         latin:keySpec="&#x05DD;"
         latin:keyHintLabel="9"
         latin:additionalMoreKeys="9" />
-    <!-- U+05E4: "פ" HEBREW LETTER PE -->
+    <!-- U+05E4: "פ" HEBREW LETTER PE
+         U+05E4: " ַ" HEBREW POINT PATAH -->
     <Key
         latin:keySpec="&#x05E4;"
+        latin:moreKeys="&‌#x05B7;"
         latin:keyHintLabel="0"
         latin:additionalMoreKeys="0" />
 </merge>
