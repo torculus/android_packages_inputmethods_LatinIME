@@ -26,7 +26,8 @@
     <Key
         latin:keySpec="&#x05D6;"
         latin:moreKeys="&#x05D6;&#x05F3;" />
-    <!-- U+05E1: "ס" HEBREW LETTER SAMEKH -->
+    <!-- U+05E1: "ס" HEBREW LETTER SAMEKH
+         U+05E1: "" HEBREW POINT SEGOL -->
     <Key
         latin:keySpec="&#x05E1;" />
     <!-- U+05D1: "ב" HEBREW LETTER BET -->
